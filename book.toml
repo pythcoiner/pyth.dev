@@ -1,0 +1,6 @@
+[book]
+authors = ["pythcoiner"]
+language = "en"
+multilingual = false
+src = "src"
+title = "pythcoiner.dev"
