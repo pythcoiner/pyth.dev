@@ -3,7 +3,7 @@
 - [Bitcoin]()
 
     - [Build bitcoin-core from sources](./bitcoin/build_core_from_sources.md)
-    - [Bitcoin Core RPC Reference](https://pythcoiner.dev/rpc/)
+    - [Bitcoin Core RPC Reference](./bitcoin/rpc.md)
 
 - [Security]()
 
