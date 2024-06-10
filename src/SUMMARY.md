@@ -9,3 +9,6 @@
 
     - [PGP with a Ledger Nano](./security/pgp_ledger/article.md)
     - [Password manager with Ledger Nano](./security/qt_pass/article.md)
+
+- [Others]()
+    - [Install MacOS on a Proxmox VM](./macos_proxmox/macos_proxmox.md)
