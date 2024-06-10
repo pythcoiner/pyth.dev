@@ -5,6 +5,9 @@
     - [Build bitcoin-core from sources](./bitcoin/build_core_from_sources.md)
     - [Bitcoin Core RPC Reference](./bitcoin/rpc.md)
 
+- [Liana]()
+    - [Build Liana from sources (MacOS)](./liana/liana_from_sources_macos/liana_from_sources.md)
+
 - [Security]()
 
     - [PGP with a Ledger Nano](./security/pgp_ledger/article.md)
