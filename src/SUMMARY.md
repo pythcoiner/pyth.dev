@@ -7,6 +7,7 @@
 
 - [Liana]()
     - [Build Liana from sources (MacOS)](./liana/liana_from_sources_macos/liana_from_sources.md)
+    - [Build Liana from sources (Windos 10)](./liana/liana_from_sources_win10/liana_from_sources.md)
 
 - [Security]()
 
